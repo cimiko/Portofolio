@@ -1,0 +1,42 @@
+body{
+  margin: auto;
+  padding: auto;
+}
+
+#header{
+  background-color: white;
+}
+
+#content .header{
+  background-color: grey;
+  color: white;
+  width: 100%;
+}
+
+#content .header h1{
+  font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+  margin-top: unset;
+  margin-left: 20px;
+}
+
+#header img{
+  width: 250px;
+  height: 100px;
+}
+
+
+
+.col-sm-6 .biodata {
+  font-size: 30px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.isi .biodata p{
+  font-size: 30px;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
